@@ -12,7 +12,6 @@ Bobot: Quiz 2%, Praktikum 1%.
 - `core/src/main/java/id/ac/upb/asetpinjam/model/Ruang.java`, `Laptop.java`, `AlatLab.java`: field, konstruktor (panggil `super`), getter, dan `getJenis()`.
 
 ## Aturan pasti (dipakai tes)
-
 - Kapasitas ruang harus > 0.
 - Spesifikasi dan nomor inventaris laptop tidak boleh kosong.
 - Laboratorium tidak boleh kosong dan tingkat risiko tidak boleh null.
